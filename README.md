@@ -47,4 +47,4 @@ jupyter notebook Smartcart.ipynb
 - `Smartcart.ipynb`: preprocessing, PCA, clustering and cluster analysis
 
 ## Author
-Arun
+S Arunachalam
