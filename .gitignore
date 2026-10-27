@@ -1,0 +1,13 @@
+# Dataset (not pushed to GitHub)
+smartcart_customers.csv
+*.csv
+data/
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+
+# Problem statement PDFs (kept local, not pushed)
+*.pdf
